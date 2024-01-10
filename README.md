@@ -1,19 +1,19 @@
 # Project-5-BestMarket
-Project 5 Query a Database with SQL to Monitor Customer Satisfaction
+Project 5 Querying a Database with SQL to Monitor Customer Satisfaction
 
 Client : BestMarket
 
-Context and Mission Challenges:
-Objective: Understand the customer service needs Expectations: A crucial issue for BestMarket, a large distribution company with multiple stores.
-1.	Advise the management on how the company could enhance the customer experience to encourage customer return. Every day, consumers reach out to customer service for complaints, suggestions, information requests with increasingly high expectations.
-2.	Deploy a strategy that would allow customers to have the best possible experience to encourage them to return to the store (Improve customer experience).
+Context and challenges of the assignment 
 
-   
-Methodology/Tools Used: SQL, Power Bi, diagrams.net 
+Objective: Understand the needs of the customer service department 
+Expectations: A very important issue for this BestMarket retailer, which consists of several shops
+1- Advise management on how the company could improve the customer experience, to keep customers coming back. Every day, consumers contact customer service with complaints, suggestions and requests for information, with increasingly stringent requirements.
+2- Need to deploy a strategy that would enable customers to obtain the best possible experience in order to return to the shop (Improve the customer experience).
 
-Skills Acquired:
-•	Justify the coherence of SQL query results with business issues
-•	Maintain an up-to-date data catalog to ensure accessibility
-•	Write advanced scripts in SQL
-•	Synthesize user business needs in the database
+Methodology/tools used: SQL, Power Bi, .net diagrams
 
+Skills acquired
+- Justify the consistency of the results of SQL queries with the business problem
+- Keep a data catalogue up to date to ensure that it is accessible
+- Write advanced SQL scripts
+- Synthesise users' business needs in the database
